@@ -1,0 +1,10 @@
+F:\SBS\EnvironmentSetting\EnvironmentSetting.Model\bin\Debug\EnvironmentSetting.Model.dll.config
+F:\SBS\EnvironmentSetting\EnvironmentSetting.Model\bin\Debug\EnvironmentSetting.Model.dll
+F:\SBS\EnvironmentSetting\EnvironmentSetting.Model\bin\Debug\EnvironmentSetting.Model.pdb
+F:\SBS\EnvironmentSetting\EnvironmentSetting.Model\bin\Debug\EntityFramework.dll
+F:\SBS\EnvironmentSetting\EnvironmentSetting.Model\bin\Debug\EntityFramework.SqlServer.dll
+F:\SBS\EnvironmentSetting\EnvironmentSetting.Model\bin\Debug\EntityFramework.xml
+F:\SBS\EnvironmentSetting\EnvironmentSetting.Model\bin\Debug\EntityFramework.SqlServer.xml
+F:\SBS\EnvironmentSetting\EnvironmentSetting.Model\obj\Debug\EnvironmentSetting.Model.dll
+F:\SBS\EnvironmentSetting\EnvironmentSetting.Model\obj\Debug\EnvironmentSetting.Model.pdb
+F:\SBS\EnvironmentSetting\EnvironmentSetting.Model\obj\Debug\EnvironmentSetting.Model.csprojResolveAssemblyReference.cache

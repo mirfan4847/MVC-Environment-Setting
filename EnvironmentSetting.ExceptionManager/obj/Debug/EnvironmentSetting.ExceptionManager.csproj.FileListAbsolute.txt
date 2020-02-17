@@ -1,0 +1,5 @@
+F:\SBS\EnvironmentSetting\EnvironmentSetting.ExceptionManager\bin\Debug\EnvironmentSetting.ExceptionManager.dll
+F:\SBS\EnvironmentSetting\EnvironmentSetting.ExceptionManager\bin\Debug\EnvironmentSetting.ExceptionManager.pdb
+F:\SBS\EnvironmentSetting\EnvironmentSetting.ExceptionManager\obj\Debug\EnvironmentSetting.ExceptionManager.csprojResolveAssemblyReference.cache
+F:\SBS\EnvironmentSetting\EnvironmentSetting.ExceptionManager\obj\Debug\EnvironmentSetting.ExceptionManager.dll
+F:\SBS\EnvironmentSetting\EnvironmentSetting.ExceptionManager\obj\Debug\EnvironmentSetting.ExceptionManager.pdb

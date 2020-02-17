@@ -1,0 +1,5 @@
+F:\SBS\EnvironmentSetting\EnvironmentSetting.ViewModel\bin\Debug\EnvironmentSetting.ViewModel.dll
+F:\SBS\EnvironmentSetting\EnvironmentSetting.ViewModel\bin\Debug\EnvironmentSetting.ViewModel.pdb
+F:\SBS\EnvironmentSetting\EnvironmentSetting.ViewModel\obj\Debug\EnvironmentSetting.ViewModel.dll
+F:\SBS\EnvironmentSetting\EnvironmentSetting.ViewModel\obj\Debug\EnvironmentSetting.ViewModel.pdb
+F:\SBS\EnvironmentSetting\EnvironmentSetting.ViewModel\obj\Debug\EnvironmentSetting.ViewModel.csprojResolveAssemblyReference.cache
